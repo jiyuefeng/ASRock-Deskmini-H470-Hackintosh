@@ -16,7 +16,7 @@ WiFi: BCM943602CS + 转接卡
 
 SMBIOS 型号：  iMac20,1
 
-iMac20,2会隐藏蓝牙有bug，这里使用IMac20,1
+iMac20,2会隐藏蓝牙有bug，这里使用iMac20,1
 
 BIOS里面关闭SecureBoot，调整核显显存为最大
 
@@ -30,5 +30,5 @@ HDMI接口未测试，一直使用DP接口完美。
 ![](./display.png)
 ![](./graphics.png)
 ![](./video.png)
-![](./earphone.png)
+![](./audio.png)
 ![](./wifi.png)
